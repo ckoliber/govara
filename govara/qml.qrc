@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/objects/Theme.qml</file>
+        <file>qml/objects/Global.qml</file>
+        <file>qml/pages/CustomerDetail.qml</file>
+        <file>qml/pages/CustomerTab.qml</file>
+        <file>qml/dialogs/CustomerDialog.qml</file>
+        <file>qml/dialogs/CustomerFilter.qml</file>
+        <file>qml/dialogs/InstalmentDialog.qml</file>
+        <file>qml/dialogs/InstalmentFilter.qml</file>
+        <file>qml/dialogs/PartDialog.qml</file>
+        <file>qml/dialogs/PartFilter.qml</file>
+        <file>qml/dialogs/ServiceDialog.qml</file>
+        <file>qml/dialogs/ServiceFilter.qml</file>
+        <file>qml/pages/InstalmentDetail.qml</file>
+        <file>qml/pages/InstalmentTab.qml</file>
+        <file>qml/pages/PartDetail.qml</file>
+        <file>qml/pages/PartTab.qml</file>
+        <file>qml/pages/ServiceDetail.qml</file>
+        <file>qml/pages/ServiceTab.qml</file>
+        <file>qml/objects/DatePicker.qml</file>
+        <file>qml/objects/ColorPicker.qml</file>
+        <file>qml/objects/ConfirmDialog.qml</file>
+        <file>qml/objects/Settings.qml</file>
+        <file>qml/objects/ListView.qml</file>
+        <file>qml/objects/StackView.qml</file>
+        <file>qml/objects/ComboBox.qml</file>
+        <file>qml/dialogs/ServicePrint.qml</file>
+        <file>data/1.jpg</file>
+        <file>data/2.jpg</file>
+        <file>data/3.jpg</file>
+        <file>data/4.jpg</file>
+    </qresource>
+</RCC>
